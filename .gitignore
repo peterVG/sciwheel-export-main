@@ -1,0 +1,6 @@
+# Ignore these files and paths!
+
+*venv
+__pycache__
+.env
+*-export.json
